@@ -1,12 +1,12 @@
 # Site settings
 title: New Directions
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: newdirectionsphilmind@gmail.com
 description: "New Directions in the Study of the Mind Project."
 baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://yourdomain.com"
 twitter_username: studyofthemind
-github_username:  davidtmiller
+# github_username:  davidtmiller
 facebook_username:  IronSummitMedia
 
 # Build settings
@@ -18,31 +18,31 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Tim Crane
   pic: 1
-  position: Lead Designer
+  position: Principal Investigator
   social:
     - title: twitter
-      url: #
-    - title: facebook
+      url: https://twitter.com/timcrane102
+    - title: flickr
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Craig French
   pic: 2
-  position: Lead Marketer
+  position: Postdoctoral Fellow
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/EarlyModPhil
     - title: facebook
       url: #
     - title: linkedin
       url: #
 
-- name: Felix Petersen
+- name: Alex Grzankowski
   pic: 3
-  position: Lead Developer
+  position: Lecturer
   social:
     - title: twitter
       url: #
@@ -51,9 +51,9 @@ people:
     - title: google-plus
       url: #
 
-- name: Jane Petersen
-  pic: 2
-  position: Lead Developer
+- name: Raamy Majeed
+  pic: 4
+  position: Postdoctoral Fellow
   social:
     - title: twitter
       url: #
@@ -62,13 +62,13 @@ people:
     - title: google-plus
       url: #
 
-- name: Don Petersen
-  pic: 1
-  position: Lead Developer
+- name: Chris Meyns
+  pic: 5
+  position: Research Associate and Project Manager
   social:
     - title: twitter
-      url: #
-    - title: facebook
+      url: https://twitter.com/csmeyns
+    - title: flickr
       url: #
     - title: google-plus
       url: #      
