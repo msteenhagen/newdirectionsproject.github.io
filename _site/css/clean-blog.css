@@ -642,3 +642,17 @@ section {
     padding: 100px 0;
 }
 
+
+// Social Share
+// --------------------------------------------------
+.socialcount {
+  @include font-rem(16);
+  li { 
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  p > a,
+  li > a {
+    border-bottom-width: 0;
+  }
+}
