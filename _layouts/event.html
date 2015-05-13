@@ -12,7 +12,7 @@ layout: default
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Location: {% if event.location %}{{ event.location }} | {% else %}{% endif %} On {{ event.date | date: "%B %-d, %Y" }}</span>
+                    <span class="meta">Location: {% if page.location %}{{ page.location }} | {% else %}{% endif %} On {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
         </div>
