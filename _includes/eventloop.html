@@ -16,9 +16,9 @@
     {% if event.organiser %}
     <h3>This event is organised by {{ event.organiser }}.</h3>
     {% else %}
-    <h3>We're hosting this ourselves!</h3>
+    <h3></h3>
     {% endif %}
-    <p class="post-meta">Eaten by {% if event.author %}{{ event.author }}{% else %}{{ site.title }}{% endif %} on {{ event.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">{% if event.location %}{{ event.location }}{% else %}{{ site.title }}{% endif %}, {{ event.date | date: "%-d %B %Y" }}, {{ event.time }}</p>
 </div>
 <!-- <hr> -->
 {% endfor %}

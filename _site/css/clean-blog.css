@@ -642,17 +642,30 @@ section {
     padding: 100px 0;
 }
 
-
-// Social Share
-// --------------------------------------------------
-.socialcount {
-  @include font-rem(16);
-  li { 
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-  p > a,
-  li > a {
-    border-bottom-width: 0;
-  }
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
 }
+
+ul.share-buttons li{
+  display: inline;
+}
+
+
+#img_cont {
+  display: table;
+  width: 90%;
+  margin: 20px auto;
+}
+
+#img_cont a {
+  display: table-cell;
+  text-align: center;
+  width: 50%;
+}
+
+#img_cont img {
+  width: 100%;
+  max-width: 150px;
+}
+

@@ -7,7 +7,7 @@ baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "http://yourdomain.com"
 twitter_username: studyofthemind
 # github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+# facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
@@ -24,10 +24,8 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/timcrane102
-    - title: flickr
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: home
+      url: http://timcrane.com
 
 - name: Craig French
   pic: 2
@@ -35,32 +33,22 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/EarlyModPhil
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: home
+      url: http://www.craigfrench.co.uk/
 
 - name: Alex Grzankowski
   pic: 3
   position: Lecturer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: http://www.myweb.ttu.edu/agrzanko/
 
 - name: Raamy Majeed
   pic: 4
   position: Postdoctoral Fellow
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: home
+      url: https://raamymajeed.wordpress.com
 
 - name: Chris Meyns
   pic: 5
@@ -68,5 +56,34 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/csmeyns
-    - title: linkedin
-      url: https://ca.linkedin.com/in/csmeyns  
+    - title: home
+      url: http://csmeyns.github.io      
+
+# Settings for sharing 
+    # Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
+    # Add a tweet button    => provider : tweet
+    # Add a like button     => provider : like (you also need a facebook appid)
+    # Add a plus one button   => provider : plusone
+    # Add a HN button     => provider : hn
+    # Add them all (i.e. hn + tweet + plusone + like) => provider : all
+    # Set 'provider' to the sharing provider you want to use.
+    # Set 'provider' to false to turn sharing off globally.
+    #
+     # sharing :
+     #   provider : all
+     #   twitter :
+     #     size :
+     #     via :
+     #     count :
+     # facebook :
+     #     appid : 123
+     #     layout : button_count
+     #     font :
+     #     faces : false
+     #     width : 90
+     # googleplus :
+     #     size : medium
+     #     width :
+     #     annotation : bubble
+     # linkedin :
+     #     counter : right  
