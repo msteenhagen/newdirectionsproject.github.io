@@ -4,10 +4,8 @@ header-img: img/home-bg.jpg
 email: newdirectionsphilmind@gmail.com
 description: "New Directions in the Study of the Mind Project."
 baseurl: "/startbootstrap-clean-blog-jekyll"
-url: http://127.0.0.1:4000/startbootstrap-clean-blog-jekyll
+url: http://csmeyns.github.io/newdirections
 twitter_username: studyofthemind
-# github_username:  davidtmiller
-# facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
