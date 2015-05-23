@@ -13,6 +13,9 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
+# Construction text
+underconstruction: "coming soon"
+
 # Google Analytics
 google_analytics: 	UA-63024724-1
 
