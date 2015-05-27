@@ -1,0 +1,29 @@
+<section>
+<!-- <div class="row"> -->
+<div class="col-lg-12 text-center">
+
+{% for event in site.categories.events %}
+<div class="post-preview">
+ <a href="{{ event.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ event.title }}
+        </h2>
+        {% if event.subtitle %}
+        <h3 class="post-subtitle">
+            {{ event.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    {% if event.organiser %}
+    <h3>This event is organised by {{ event.organiser }}.</h3>
+    {% else %}
+    <h3></h3>
+    {% endif %}
+    <p class="post-meta">{% if event.location %}{{ event.location }}{% else %}{{ site.title }}{% endif %}, {{ event.date | date: "%-d %B %Y" }}, {{ event.time }}</p>
+</div>
+<!-- <hr> -->
+{% endfor %}
+
+</div>
+</div>
+</div>
+</section>

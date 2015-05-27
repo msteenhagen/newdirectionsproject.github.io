@@ -22,6 +22,18 @@
                         </a>
                     </li>
                     {% endif %}
+                    <li>
+<!--                         <a href="http://eepurl.com/bnuQyr">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a> -->
+
+<a class="btn" href="http://eepurl.com/bnuQyr">
+  <i class="icon-envelope"></i>Subscribe to our newletter</a>
+
+                    </li>
                     {% if site.facebook_username %}
                     <li>
                         <a href="https://www.facebook.com/{{ site.facebook_username }}">
@@ -43,10 +55,27 @@
                     </li>
                     {% endif %}
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}</p>
             </div>
         </div>
     </div>
+    
+
+<ul class="list-inline text-center">
+<!-- <h5>This project is sponsored by</h5> -->
+  <li><a href="http://www.templeton.org" target="_blank"><img style="width: 250px;" src="{{ site.baseurl }}/img/templeton.png" /></a></li>
+  <li></li>
+  <li><a href="http://cam.ac.uk" target="_blank"><img style="width: 250px;" src="{{ site.baseurl }}/img/cambridge.png" /></a></li>
+</ul>
+
+<div style="height:50px;"></div>
+<div>
+ <ul class="list-inline text-center">
+                    <li>
+                 <small>Except where indicated otherwise, this work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small>
+                 </li>
+                 </ul>
+</div>
+
 </footer>
 
 <!-- jQuery -->

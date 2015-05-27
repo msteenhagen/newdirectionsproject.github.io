@@ -1,13 +1,10 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+title: New Directions
+header-img: img/home-bg3.jpg
+email: newdirectionsphilmind@gmail.com
+description: "New Directions in the Study of the Mind Project."
+baseurl: http://csmeyns.github.io/newdirections
+twitter_username: studyofthemind
 
 # Build settings
 markdown: kramdown
@@ -15,3 +12,83 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# Construction text
+underconstruction: "coming soon"
+
+# Google Analytics
+google_analytics: 	UA-63024724-1
+
+# Team names, titles and social links
+people:
+- name: Tim Crane
+  pic: 1
+  position: Principal Investigator
+  social:
+    - title: twitter
+      url: https://twitter.com/timcrane102
+    - title: linkedin
+      url: http://www.linkedin.com/profile/view?id=17801629
+    - title: home
+      url: http://timcrane.com
+
+- name: Craig French
+  pic: 2
+  position: Postdoctoral Fellow
+  social:
+    - title: twitter
+      url: https://twitter.com/EarlyModPhil
+    - title: home
+      url: http://www.craigfrench.co.uk/
+
+- name: Alex Grzankowski
+  pic: 3
+  position: Lecturer
+  social:
+    - title: home
+      url: http://www.myweb.ttu.edu/agrzanko/
+
+- name: Raamy Majeed
+  pic: 4
+  position: Postdoctoral Fellow
+  social:
+    - title: home
+      url: https://raamymajeed.wordpress.com
+
+- name: Chris Meyns
+  pic: 5
+  position: Research Associate and Project Manager
+  social:
+    - title: twitter
+      url: https://twitter.com/csmeyns
+    - title: home
+      url: http://csmeyns.github.io      
+
+# Settings for sharing 
+    # Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
+    # Add a tweet button    => provider : tweet
+    # Add a like button     => provider : like (you also need a facebook appid)
+    # Add a plus one button   => provider : plusone
+    # Add a HN button     => provider : hn
+    # Add them all (i.e. hn + tweet + plusone + like) => provider : all
+    # Set 'provider' to the sharing provider you want to use.
+    # Set 'provider' to false to turn sharing off globally.
+    #
+     # sharing :
+     #   provider : all
+     #   twitter :
+     #     size :
+     #     via :
+     #     count :
+     # facebook :
+     #     appid : 123
+     #     layout : button_count
+     #     font :
+     #     faces : false
+     #     width : 90
+     # googleplus :
+     #     size : medium
+     #     width :
+     #     annotation : bubble
+     # linkedin :
+     #     counter : right  
