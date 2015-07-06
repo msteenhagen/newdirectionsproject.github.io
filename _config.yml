@@ -5,6 +5,7 @@ email: newdirectionsphilmind@gmail.com
 description: "New Directions in the Study of the Mind Project."
 baseurl: http://www.newdirectionsproject.com
 twitter_username: studyofthemind
+facebook_username: newdirectionsmindproject
 
 # Build settings
 markdown: kramdown
@@ -46,7 +47,7 @@ people:
   position: Lecturer
   social:
     - title: home
-      url: http://www.myweb.ttu.edu/agrzanko/
+      url: http://alexgrzankowski.com/
 
 - name: Raamy Majeed
   pic: 4
