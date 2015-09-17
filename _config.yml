@@ -65,9 +65,9 @@ people:
     - title: linkedin
       url: https://uk.linkedin.com/in/csmeyns
     - title: home
-      url: http://csmeyns.github.io      
+      url: http://chrismeyns.xyz     
 
-# Settings for sharing 
+# Settings for sharing
     # Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
     # Add a tweet button    => provider : tweet
     # Add a like button     => provider : like (you also need a facebook appid)
@@ -94,4 +94,4 @@ people:
      #     width :
      #     annotation : bubble
      # linkedin :
-     #     counter : right  
+     #     counter : right
