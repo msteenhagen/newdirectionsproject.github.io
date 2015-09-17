@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Geometry in Mind: Space, Experience and Solipsism"
+subtitle:   
+date:       2015-06-09 12:00:00
+author:     "New Directions"
+header-img: "img/post-bg-01.jpg"
+---
+
+Dr. Clare Mac Cumhaill Lecturer in Philosophy Durham University
+
+Is there a connexion between consciousness and space? Some philosophers say yes, but for others, notoriously, the link may be forever cognitively closed to us—it may simply transcend our powers of comprehension. _Geometry in Mind_ tries to excavate a possible link. There is, it is argued, an unnoted explanatory connexion between a feature of the space in our vicinity—its near Euclidean shape—and certain aspects of our perceptual experience of the world, namely the fact that we typically experience some material objects as located—that is, as being at places. In this respect, our experience of material objects is unlike our experience of, for instance, waves. Objects are not experienced as modifications of space in the way that waves are experienced as modifications of the sea. Rather they are experienced as spatial entities _in_ space and as, hence, _at_ a place. What explains the respect in which our perceptual experiences present the world to us in this way?
+
+The project argues that relative freedom of movement is explanatorily relevant to the possibility of possessing the capacity to distinguish objects from their places and hence to the possibility of experiencing things as being in space or at a place. But since what we call ‘movement’ is only possible in regions of relatively constant curvature—something the great 19th century German physicist Hermann von Helmholtz is credited with showing—an explanatory link is suggested between the shape of space and certain aspects of the conscious experience of those subjects who possess the capacity to distinguish objects from their places—subjects like us!
+
+Critically, however, in elucidating this link, the style of explanation deployed is not causal—the form of explanation most often associated with empirical explanation. Arguably space does not do anything in virtue of its shape. Rather, the style of explanation involved is _geometric_—it appeals to the shape or structure of space. But, as such, the project stakes out a New Direction in the Study of the Mind. How so?
+
+In order to explain how certain things appear to us in this way—as located _at_ places—mere invocation of objects and spatial relations—the familiar stuff of reductive physicalist explanation—won’t do alone. Rather geometry has a certain explanatory role to play, at least once suitably understood (to get a flavour of just how, see the work of Austrialian philosopher Graham Nerlich). What’s more, since the explanation of our target phenomenological datum appeals to conscious subjects of experience located in regions of spacetime with relatively constant curvature, a further, perhaps surprising conclusion can be drawn:
+
+Given the kinds of experiences _we_ have, there are constraints on _where_ we could be—we couldn’t be stranded in radically convoluted regions – and, more particularly, there are constraints on _what kind of consciousnesses we could be_. In particular, since solipsism – roughly the thought that we could be lone experiencers in an otherwise empty world—is conceivable for us, it is in fact precluded, with consequences for any philosophical theory of the metaphysics of mind consistent with this possibility.
