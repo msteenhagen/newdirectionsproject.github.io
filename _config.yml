@@ -6,6 +6,7 @@ description: "New Directions in the Study of the Mind Project."
 baseurl: http://www.newdirectionsproject.com
 twitter_username: studyofthemind
 facebook_username: newdirectionsmindproject
+instagram_username: newdirectionsproject
 
 # Build settings
 markdown: kramdown
@@ -65,7 +66,7 @@ people:
     - title: linkedin
       url: https://uk.linkedin.com/in/csmeyns
     - title: home
-      url: http://chrismeyns.xyz     
+      url: http://chrismeyns.xyz
 
 # Settings for sharing
     # Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
