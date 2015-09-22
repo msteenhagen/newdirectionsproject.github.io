@@ -1,9 +1,49 @@
 ---
 layout: page
-title: "Funding"
+title: "Initiatives"
 description: "Get involved."
 header-img: "img/funding-bg3.jpg"
 ---
+
+<h1>Funded projects</h1>
+
+<p>Here is an overview of initiatives funded by the New Directions Project.</p>
+
+
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+<hr>
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
+
+
+<h1>Get funded</h1>
 
 <p>The New Directions in the Study of the Mind will fund a number of smaller research projects as part of this initiative. Philosophers, psychologists and neuroscientists are invited to apply for funding for these projects.</p>
 
@@ -12,7 +52,3 @@ header-img: "img/funding-bg3.jpg"
 <p><a href="{{ site.baseurl }}/pdfs/newdirections_callforproposals_2015.pdf">Here</a> are the details for those interested in applying for funding.</p>
 
 <p>Proposals will be evaluated by the project team and a selection of external experts.</p>
-
-<h1>Funded projects</h1>
-
-<p>Details about funded projects will appear on this page.</p>
