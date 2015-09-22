@@ -2,7 +2,7 @@
 layout:     post
 title:      "Probabilitizing Consciousness: Implications and New Directions"
 subtitle:   
-date:       2015-06-09 12:00:00
+date:       2015-09-13 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
 ---
