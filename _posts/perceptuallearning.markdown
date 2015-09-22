@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "The Interdisciplinary Study of Perceptual Learning"
+subtitle:   
+date:       2015-06-09 12:00:00
+author:     "New Directions"
+header-img: "img/post-bg-01.jpg"
+---
+
+Dr. Kevin Connolly
+University of Pennsylvania
+Department of Philosophy and
+Institute for Research in Cognitive Science
+Dr. Adrienne Prettyman Bryn Mawr College Department of Philosophy
+
+People often say things like the following: Cabernet Sauvignon tastes differently to an expert wine taster than to a novice, or Beethoven’s Ninth Symphony sounds differently to a seasoned conductor than it does to someone just in the audience and hearing it for the first time. The examples just described are cases of *perceptual learning*—cases of long-term changes in perception as the result of practice or experience.
+
+If people really do see the world differently due to learning (and there is mounting evidence from psychology that they do), what does this mean for the study of the mind? Consider the fact that when psychologists design experiments, they often assume that by carefully controlling the conditions in the laboratory, they can control what a research subject perceives. If, however, subjects see the world differently due to long-term changes from past experience, then no amount of careful control in the lab will enable the experimenter to fully control that subject’s experience. Perception does not just reduce to (it cannot be explained by) the inputs that enter your senses. Instead, what the subject sees will be determined partly by what the experimenter presents, and partly by the subject’s past experiences and expertise. Indeed, when presented with the same object, two subjects may see somewhat different things in virtue of their unique histories, skills, and expertise. One of the central questions that we explore in this project concerns how the study of the mind should move forward in light of this fact.
+
+We aim to bring together philosophers, psychologists, and neuroscientists for two international workshops to discuss perceptual learning and the challenges that it raises. This is especially timely, because the study of perceptual learning has experienced a boom in psychology in the past fifty years. Philosophers, for their part, have been discussing perceptual learning for centuries, from the 14th-century Indian philosopher Vedānta Deśika to the 18th-century Scottish philosopher Thomas Reid. The philosophical exploration of perceptual learning often makes use of intuitions and introspection about the subjective changes in one’s perception. Psychology, on the other hand, has studied the phenomenon in the lab, and is now in a position to weigh in on past philosophical claims.
+
+Our goal is to foster an ongoing and deeply interdisciplinary conversation by pairing scientists and philosophers as presenters and commentators at our workshops, and by involving researchers at all levels, from graduate students to more senior colleagues. This workshop format provides an opportunity for experts across different but complimentary fields to speak directly to each other’s work, and to find ways of integrating learning across the disciplines.

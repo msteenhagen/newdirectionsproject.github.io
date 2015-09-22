@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Primitive Colours and Non-reductive Minds"
+subtitle:   
+date:       2015-06-09 12:00:00
+author:     "New Directions"
+header-img: "img/post-bg-01.jpg"
+---
+
+Derek Brown (Philosophy, Brandon University)
+
+Although we know a lot about colour, both as perceivers and as researchers, we still don’t know how they ultimately relate to the mind and to the physical world. Colours are routinely experienced on the surfaces of things in the world and in important ways correlate to base physical properties like light wavelength and light reflectance. However, colours possess various features (hues, similarities, opponencies, categories) which light wavelengths and reflectances arguably lack. Should we infer that colours are not reducible to physical properties, but instead are themselves primitive? Should we admit that in the end colours are ‘in the head’? While the first idea is that colours are *primitive* or *non-reductive*, the second is that colours are *subjective* or *mind-dependent*.
+These simple ideas create a sophisticated space of options. On the subjective side, colours might be reducible to neural features, or they might resist this reduction and best be construed as primitive mental properties. On the objective side, colours might be reducible to properties like light wavelength and reflectance, or they might be properties of cars and trees that cannot be reduced to basic physics. Our questions are:
+
+1. What does each option say about the mind and in particular about whether or not the mind is reducible to basic physical properties and things?
+2. How does recent scientific evidence bear on these options?
+
+Colour is an especially interesting case because the tremendous knowledge we have acquired about the underlying physical processes that give rise to colour perceptions have in various ways failed to yield a compelling reductive theory of colour, making it an ideal area for the New Directions Project to explore.
+Phase one of this project involves Dr D. Brown (Philosophy, Brandon University, Canada) visiting the New Directions team in fall 2016 during a sabbatical leave. There he will develop a primitive theory of subjective colours. On this view colours are properties of the minds of colour perceivers that cannot be reduced to neural properties. It will be contrasted with eliminativist views that assert that nothing in our world is coloured.
+Phase two of this project consists of a workshop on primitive colours and non-reductive minds to be held in Manitoba, Canada in spring 2017. In addition to work from Dr Brown and members of the New Directions team, the workshop will feature roughly a dozen speakers (academics and students) presenting the most current research on primitive colours and non-reductive minds.

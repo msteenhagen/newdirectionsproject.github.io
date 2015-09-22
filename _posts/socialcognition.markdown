@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Subjectivity, Agency and Social Cognition-Challenges for Reductionist Accounts of the Mind"
+subtitle:   
+date:       2015-06-09 12:00:00
+author:     "New Directions"
+header-img: "img/post-bg-01.jpg"
+---
+
+Investigators: Colin Blakemore, Christopher Frith and Patrick Haggard
+
+Neuroscience has made great strides in providing purely physical accounts of how our brains process signals from our sense organs, store information for short or long periods of time, and control our muscles as we carry out actions. These accounts are physical - in the sense that they consider the brain as operating on the basis of physical influences that cause our actions. They make little or no reference to the fact that human beings are aware of their sensory experiences and their past memories; and that we consciously think about the future and choose for ourselves what we do. Only in the most simple situations (such as pulling your hand away if it touches a hotplate, or correcting your posture if you stumble on an unseen step in your path) do you feel that you are simply reacting automatically to things that happen to you. Most of the time, you have the feeling that you are in control. At the heart of our personal, understanding of how we work is the notion that each of us is a **self** - the subject of experiences and the agent that chooses and initiates our voluntary actions. This subjective, intentional account of our own behaviour is reflected in the way that we speak about our perceptions, wishes, thoughts and choices. The personal pronoun 'I' captures the concept of an autonomous self. Equally, we imagine other people also to have sensations, thoughts, intentions and choices. Most scientists think that mental states must be entirely dependent on physical states. But autonomous, self-based mental model of our behaviour that we carry in our minds is incompatible with physical models of brain and behaviour. We shall be conducting a programme of experimental work on three main areas of human cognition and behaviour that are particularly resistant to physical description:
+
+1. So-called **'top-down' effects on experience**, i.e. our ability, from within, to direct our own perception of the world, by selective attention, etc, and to imagine experiences without physical stimulation of our sense organs.
+2. **The effects of social interactions**, such as instructions and suggestions from other people, on our perception, understanding, beliefs, choices and actions.
+3. **Voluntary decision-making and intentional action**, which we feel to depend on our own 'will', rather than being slavishly caused by predisposing physical causes.
+
+We shall use a variety of techniques, including functional Magnetic Resonance Imaging, brain wave measurement, transcranial magnetic stimulation of the brain and the monitoring of eye movements and muscle responses, to examine brain activity associated with subjective experiences, For each of these areas we shall critically test possible physical explanations for the mental phenomena, on the understanding that exhaustive elimination of physical explanations in terms of brain function would strengthen the case for alternative, non-physical accounts of human behaviour.
