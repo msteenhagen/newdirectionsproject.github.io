@@ -5,9 +5,14 @@ subtitle:
 date:       2015-09-02 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
+people:
+- name: Jonardon Ganeri
+  pic: ganeri
+  position: Principal Investigator
+  social:
+    - title: home
+      url: http://nyuad.nyu.edu/en/academics/faculty/jonardon-ganeri.html
 ---
-
-Professor Jonardon Ganeri - NYU
 
 Attention performs work traditionally attributed to a self. Conscious perceptual experience is a form of active, attentive, involvement with the world, yet there is no role for a conception of self as centralised agent of thinking, believing or perceiving. Attention is the reason there can be action without a centralised actor, thinking without a thinker, because there is intention in attention, above intention to attend: attention is already an activity of mind. Yet attention is disunified: like memory, it is not a single psychological kind. The distinct kinds of attention include selective and sustained attention, retentive and reflective attention, attention through language to the world beyond one’s horizons and from other perspectives, attention to one’s own mind, and attention to the minds of others. These kinds of attention have distinct roles in explaining perception, memory, testimony, self-knowledge, social cognition, and the phenomenology of thinking. An attention-theoretic approach brings important new options to the table in contemporary philosophy of mind and cognitive science, providing new directions to recent work on the pervasiveness of the mental, embodied cognition, cognitive phenomenology, intersubjectivity and the experience of time, organised around the possibility that attention to attention renders otiose the positing of a centralised agent in the understanding of perceptual experience, intentional action, and reflective thought. A role for the self remains, in accounting for the nature of owning a state of mind. Self is about ownership, not agency: in matters of agency, what does the work is attention.
 

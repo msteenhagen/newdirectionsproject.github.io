@@ -5,6 +5,27 @@ subtitle:
 date:       2015-09-09 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
+people:
+- name: Peter Langland-Hassan
+  pic: langlandhassan
+  position: Principal Investigator and Team Leader
+  social:
+    - title: home
+      url: http://homepages.uc.edu/~langlapr/Home.html
+- name: Aimee Dietz
+  pic: dietz
+  position: Co-Principal Investigator
+  social:
+    - title: twitter
+      url: http://www.twitter.com/AimeeDietz
+    - title: home
+      url: http://cahs.uc.edu/csd/research/dietz-lab
+- name: Michael J. Richardson
+  pic: richardsonm
+  position: Co-Principal Investigator
+  social:
+    - title: home
+      url: http://www.artsci.uc.edu/departments/psychology/fac_staff.html?eid=richamo&thecomp=uceprof
 ---
 
 Peter Langland-Hassan Principal Investigator and Team Leader,

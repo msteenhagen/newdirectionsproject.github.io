@@ -5,9 +5,14 @@ subtitle:
 date:    2015-09-05 12:00:00
 author:   "New Directions"
 header-img: "img/post-bg-01.jpg"
+people:
+- name: Declan Smithies
+  pic: smithies
+  position: Principal Investigator
+  social:
+    - title: home
+      url: https://sites.google.com/site/declansmithies/
 ---
-
-Declan Smithies - The Ohio State University
 
 For much of the last century, phenomenal consciousness occupied a curious status within philosophy of mind: it was central in some ways and yet peripheral in others. On the one hand, this topic attracted a significant amount of philosophical interest owing to metaphysical puzzlement about the nature of phenomenal consciousness and its place in the physical world. On the other hand, this metaphysical puzzlement also provided much of the impetus for a research program of understanding the mind as far as possible without making reference to phenomenal consciousness.
 

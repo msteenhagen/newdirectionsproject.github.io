@@ -5,9 +5,14 @@ subtitle:
 date:       2015-09-07 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
+people:
+- name: Clare Mac Cumhaill 
+  pic: maccumhaill
+  position: Principal Investigator
+  social:
+    - title: home
+      url: https://www.dur.ac.uk/philosophy/staff/?id=11902
 ---
-
-Dr. Clare Mac Cumhaill Lecturer in Philosophy Durham University
 
 Is there a connexion between consciousness and space? Some philosophers say yes, but for others, notoriously, the link may be forever cognitively closed to us—it may simply transcend our powers of comprehension. _Geometry in Mind_ tries to excavate a possible link. There is, it is argued, an unnoted explanatory connexion between a feature of the space in our vicinity—its near Euclidean shape—and certain aspects of our perceptual experience of the world, namely the fact that we typically experience some material objects as located—that is, as being at places. In this respect, our experience of material objects is unlike our experience of, for instance, waves. Objects are not experienced as modifications of space in the way that waves are experienced as modifications of the sea. Rather they are experienced as spatial entities _in_ space and as, hence, _at_ a place. What explains the respect in which our perceptual experiences present the world to us in this way?
 

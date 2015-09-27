@@ -5,11 +5,30 @@ subtitle:
 date:       2015-09-08 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
+people:
+- name: Giuseppina D’Oro
+  pic: doro
+  position: Principal Investigator
+  social:
+    - title: twitter
+      url: https://twitter.com/giuseppinadoro
+    - title: home
+      url: http://www.keele.ac.uk/spire/staff/giuseppinadoro/
+- name: Paul Giladi
+  pic: giladi
+  position: Co-investigator
+  social:
+    - title: home
+      url: http://sheffield.academia.edu/PaulGiladi
+- name: Alexis J. Papazoglou
+  pic: papazoglou
+  position: Co-investigator
+  social:
+    - title: twitter
+      url: https://twitter.com/greekphilosoph
+    - title: home
+      url: http://royalholloway.academia.edu/AlexisPapazoglou
 ---
-
-Dr Giuseppina D’Oro, Reader in Philosophy, Keele University
-Dr Paul Giladi, Honorary Research Fellow, Department of Philosophy, University of Sheffield
-Dr Alexis J. Papazoglou, Lecturer in Philosophy, Royal Holloway (from September 2015)
 
 Are explanations of human actions which appeal to reasons compatible with the causal explanations used to account for natural phenomena such as hurricanes, volcanic explosions and the like?
 

@@ -5,11 +5,14 @@ subtitle:
 date:       2015-09-06 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
+people:
+- name: Valerie G. Hardcastle
+  pic: hardcastle
+  position: Principal Investigator
+  social:
+    - title: home
+      url: http://www.artsci.uc.edu/departments/philosophy/fac_staff/byDeptMembers.html?eid=hardcave
 ---
-
-Valerie Gray Hardcastle
-University of Cincinnati
-
 
 We have known since at least the mid-1960’s that the brain responds more to stimuli it was not expecting. Novel stimuli capture our attention. This well-known fact forms the basis for several contemporary theories of theories of mind, including Andy Clark’s and Tony Chemero’s notions of embodied cognition. Clark argues that our brains are fundamentally “prediction machines,” while Chemero holds that noticing unexpected events is key to understanding the larger cognitive system of which our brains are one part. Both Clark and Chemero also believe that expecting some event to occur in the world is somehow tied to our conscious experiences.
 
