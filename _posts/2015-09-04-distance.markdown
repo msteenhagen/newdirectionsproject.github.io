@@ -4,7 +4,24 @@ title:      "Perceiving at a Distance"
 subtitle:   
 date:       2015-09-04 12:00:00
 author:     "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post-bg-07.jpg"
+people:
+- name: Maarten Steenhagen
+  pic: 1
+  position: Principal Investigator
+  social:
+    - title: twitter
+      url: https://twitter.com/msteenhagen
+    - title: home
+      url: http://msteenhagen.github.io
+- name: Jacques Brel
+  pic: 3
+  position: Principal Investigator
+  social:
+    - title: twitter
+      url: https://twitter.com/msteenhagen
+    - title: home
+      url: http://msteenhagen.github.io
 ---
 
 Dr. Maarten Steenhagen (Antwerp) (principal organiser) Prof. Bence Nanay (Antwerp, co-organiser)
