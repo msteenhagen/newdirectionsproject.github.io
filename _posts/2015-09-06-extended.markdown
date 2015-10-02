@@ -5,6 +5,7 @@ subtitle:
 date:       2015-09-06 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/extended.jpg"
+thumbnail: "extended-thumbnail.png"
 people:
 - name: Valerie G. Hardcastle
   pic: hardcastle

@@ -5,6 +5,7 @@ subtitle:
 date:       2015-09-07 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/geometry.jpg"
+thumbnail: "geometry-thumbnail.png"
 people:
 - name: Clare Mac Cumhaill 
   pic: maccumhaill

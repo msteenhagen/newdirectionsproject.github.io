@@ -5,6 +5,7 @@ subtitle:
 date:       2015-09-01 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/acquaintance.jpg"
+thumbnail: "acquaintance-thumbnail.jpg"
 people:
 - name: Thomas Raleigh
   pic: raleigh

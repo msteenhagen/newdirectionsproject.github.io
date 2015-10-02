@@ -5,6 +5,7 @@ subtitle:
 date:       2015-09-04 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/distance.jpg"
+thumbnail: "distance-thumbnail.png"
 people:
 - name: Maarten Steenhagen
   pic: steenhagen

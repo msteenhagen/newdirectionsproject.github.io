@@ -5,6 +5,7 @@ subtitle:
 date:       2015-09-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/attention.jpg"
+thumbnail: "attention-thumbnail.png"
 people:
 - name: Jonardon Ganeri
   pic: ganeri

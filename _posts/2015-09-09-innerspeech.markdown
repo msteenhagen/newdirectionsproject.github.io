@@ -4,7 +4,7 @@ title:      "Inner Speech and Cognitive Phenomenology: An Interdisciplinary Inve
 subtitle:   
 date:       2015-09-09 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/post-bg-01.jpg"
+header-img: "img/bgs/innerspeech.jpg"
 people:
 - name: Peter Langland-Hassan
   pic: langlandhassan
@@ -39,5 +39,4 @@ The project’s second experiment will employ the same paradigm, yet where a non
 To supplement the findings of the above quantitative studies, the investigators will complete a third qualitative study by administering a detailed phenomenological survey to each participant group. The survey will ask a wide range of questions concerning participants’ cognitive phenomenology during the experimental tasks and in daily life. In this way, the investigators hope to arrive at mutually supporting qualitative and quantitative data, giving due weight to both first and third person perspectives on consciousness.
 
 <span class="caption text-muted">Image: 
-<a href="..." target="_blank">...</a>, 
-...</span>
+<a href="https://www.flickr.com/photos/chrisjl/4814907958/" target="_blank">Poured Lines</a>, Chris JL</span>
