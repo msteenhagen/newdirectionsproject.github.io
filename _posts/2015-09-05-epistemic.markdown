@@ -4,7 +4,7 @@ title:    "The Epistemic Role of Consciousness"
 subtitle:  
 date:    2015-09-05 12:00:00
 author:   "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/epistemic.jpg"
 people:
 - name: Declan Smithies
   pic: smithies
@@ -20,4 +20,8 @@ One defining characteristic of this research program was the idea that the so ca
 
 My project, in contrast, is to argue that phenomenal consciousness is central to our understanding of knowledge and the mind. In philosophy of mind, it has become increasingly popular to argue that phenomenal consciousness is the basis of mental representation and hence that the problem of explaining mental representation cannot be divorced from the problem of explaining phenomenal consciousness. I argue for a related thesis in epistemology—namely, that phenomenal consciousness is the basis of epistemic justification and hence that the problem of explaining epistemic justification cannot be divorced from the problem of explaining phenomenal consciousness.
 
-These claims about the role of phenomenal consciousness are related in ways that reflect more general connections between epistemology and philosophy of mind. If phenomenal consciousness is the basis of epistemic justification, then we need to ask what$it$must be like in order to play this epistemic role. I argue that phenomenal consciousness cannot play this epistemic role if it consists in non-representational sensations or 'qualia'. On the contrary, I argue, its role in grounding epistemic justification depends upon its role in constituting a form of mental representation. On this view, not all mental representation has its source in phenomenal consciousness, but a specific kind of mental representation does—namely, the kind of mental representation that plays an epistemic role in justifying belief.
+These claims about the role of phenomenal consciousness are related in ways that reflect more general connections between epistemology and philosophy of mind. If phenomenal consciousness is the basis of epistemic justification, then we need to ask what it must be like in order to play this epistemic role. I argue that phenomenal consciousness cannot play this epistemic role if it consists in non-representational sensations or 'qualia'. On the contrary, I argue, its role in grounding epistemic justification depends upon its role in constituting a form of mental representation. On this view, not all mental representation has its source in phenomenal consciousness, but a specific kind of mental representation does—namely, the kind of mental representation that plays an epistemic role in justifying belief.
+
+<span class="caption text-muted">Image: 
+<a href="https://www.flickr.com/photos/amyashcraft/13878831344/in/photolist-n9qD2A-j38W9Y-n9qv2N-7cXGL1-7SH4Rj-cREXXf-7SDG3z-cREY93-cREXFj-9ivK8B-oxfbyQ-9ivZii-cBNqfo-9iw3QZ-9iw2sk-9X56An-8NJa8i-cSiduo-cSi8ZN-cSi6Aj-cSi7DE-cSieK3-cSiaNy-cSiepL-cSi4z9-cSicFd-cSi5H1-cSi9YY-cSie27-cSic2W-dwmFb4-dwmFix-dwsdo1-TigxB-ydMXLL-cYRxZh-9izSaA-9iwbGc-9ivYMP-9oLzgr-6dCyPW-8xxtPy-nvtjFX-nvbuLB-ndYRWu-ndYQQb-TiefM-tGYG3Z-8xus24-5Ff79w" target="_blank">Mud bricks</a>, 
+Amy the Nurse</span>

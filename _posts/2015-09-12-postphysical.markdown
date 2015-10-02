@@ -4,7 +4,7 @@ title:      "Post-physicalism and the Mind-Body Problem"
 subtitle:   
 date:       2015-09-12 12:00:00
 author:     "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/post-bg-01.jpg"
 people:
 - name: Barbara Gail Montero
   pic: montero

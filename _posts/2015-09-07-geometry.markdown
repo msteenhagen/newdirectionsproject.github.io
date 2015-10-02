@@ -4,7 +4,7 @@ title:      "Geometry in Mind: Space, Experience and Solipsism"
 subtitle:   
 date:       2015-09-07 12:00:00
 author:     "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/post-bg-01.jpg"
 people:
 - name: Clare Mac Cumhaill 
   pic: maccumhaill
@@ -23,3 +23,7 @@ Critically, however, in elucidating this link, the style of explanation deployed
 In order to explain how certain things appear to us in this way—as located _at_ places—mere invocation of objects and spatial relations—the familiar stuff of reductive physicalist explanation—won’t do alone. Rather geometry has a certain explanatory role to play, at least once suitably understood (to get a flavour of just how, see the work of Austrialian philosopher Graham Nerlich). What’s more, since the explanation of our target phenomenological datum appeals to conscious subjects of experience located in regions of spacetime with relatively constant curvature, a further, perhaps surprising conclusion can be drawn:
 
 Given the kinds of experiences _we_ have, there are constraints on _where_ we could be—we couldn’t be stranded in radically convoluted regions – and, more particularly, there are constraints on _what kind of consciousnesses we could be_. In particular, since solipsism – roughly the thought that we could be lone experiencers in an otherwise empty world—is conceivable for us, it is in fact precluded, with consequences for any philosophical theory of the metaphysics of mind consistent with this possibility.
+
+<span class="caption text-muted">Image: 
+<a href="..." target="_blank">...</a>, 
+...</span>

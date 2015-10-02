@@ -4,7 +4,7 @@ title:      "Inner Speech and Cognitive Phenomenology: An Interdisciplinary Inve
 subtitle:   
 date:       2015-09-09 12:00:00
 author:     "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/post-bg-01.jpg"
 people:
 - name: Peter Langland-Hassan
   pic: langlandhassan

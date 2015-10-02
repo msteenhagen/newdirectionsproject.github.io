@@ -4,7 +4,7 @@ title:      "Propositions and Predication"
 subtitle:   
 date:       2015-09-14 12:00:00
 author:     "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/post-bg-01.jpg"
 people:
 - name: Daniel Brigham
   pic: brigham

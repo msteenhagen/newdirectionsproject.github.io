@@ -4,7 +4,7 @@ title:      "Primitive Colours and Non-reductive Minds"
 subtitle:   
 date:       2015-09-03 12:00:00
 author:     "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/color.jpg"
 people:
 - name: Derek Brown
   pic: brown
@@ -21,5 +21,10 @@ These simple ideas create a sophisticated space of options. On the subjective si
 2. How does recent scientific evidence bear on these options?
 
 Colour is an especially interesting case because the tremendous knowledge we have acquired about the underlying physical processes that give rise to colour perceptions have in various ways failed to yield a compelling reductive theory of colour, making it an ideal area for the New Directions Project to explore.
+
 Phase one of this project involves Dr D. Brown (Philosophy, Brandon University, Canada) visiting the New Directions team in fall 2016 during a sabbatical leave. There he will develop a primitive theory of subjective colours. On this view colours are properties of the minds of colour perceivers that cannot be reduced to neural properties. It will be contrasted with eliminativist views that assert that nothing in our world is coloured.
+
 Phase two of this project consists of a workshop on primitive colours and non-reductive minds to be held in Manitoba, Canada in spring 2017. In addition to work from Dr Brown and members of the New Directions team, the workshop will feature roughly a dozen speakers (academics and students) presenting the most current research on primitive colours and non-reductive minds.
+
+<span class="caption text-muted">Image: 
+<a href="https://www.flickr.com/photos/m-louis/106736458/evBRE1-8j3F1p-cCfsaE-cCeFWE-pCYRsM-4AvruG-vHQA9P-edZXrK-cyPSXC" target="_blank">INTERNATIONAL KLEIN BLUE</a>, m-louis .®</span>

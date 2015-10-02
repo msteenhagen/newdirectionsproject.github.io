@@ -4,7 +4,7 @@ title:      "Purpose and Procedure in Philosophy of Perception"
 subtitle:   
 date:       2015-09-15 12:00:00
 author:     "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/post-bg-01.jpg"
 people:
 - name: Heather Logue
   pic: logue

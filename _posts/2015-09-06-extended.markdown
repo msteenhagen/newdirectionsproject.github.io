@@ -4,7 +4,7 @@ title:      "Extended Consciousness and the Value of Neuroscience"
 subtitle:   
 date:       2015-09-06 12:00:00
 author:     "New Directions"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/bgs/post-bg-01.jpg"
 people:
 - name: Valerie G. Hardcastle
   pic: hardcastle
@@ -21,3 +21,7 @@ Chemero, like psychologist J.J. Gibson before him, advances the radical thesis t
 Neuroscience data tell us that consciousness is not identical to all cognition; it is not even identical to all brain-based cognition. Instead, it is deeply linked to one very important part of our cognitive processes: perceiving our world just prior to action. We distinguish objects in our environment based on how we (potentially) interact with them. For example, we perceive living things by their visual features and our concomitant emotional responses to them, but inanimate objects based on how we use them functionally. But now we can go further: we can tie perceptual differences not only to the differences in how we interact with animate and inanimate objects, but also to decisions we make regarding how to move and to consciousness itself. This project aims to articulate exactly how neuroscience data can help us understand and refine how consciousness fits into a model of embodied cognition.
 
 In addition, embodied cognition approaches often assume a non-material understanding of the mind and mentality. The mind isn’t comprised of neurons or brains, but rather is found in the interaction of the brain with the world. It is both subjective and objective at the same time. A second part of this project is to explain how something like neuroscience, which presupposes that there are only physical things in the universe, fits with these non-physicalistic models of the mind. Obviously, one view is not going to reduce into the other, but there are other ways of understanding how our scientific models can inform one another. This project will also try to outline what these ways are and how they are important for our basic understanding of the universe and of scientific progress.
+
+<span class="caption text-muted">Image: 
+<a href="..." target="_blank">...</a>, 
+...</span>
