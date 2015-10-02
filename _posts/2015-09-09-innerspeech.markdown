@@ -28,10 +28,6 @@ people:
       url: http://www.artsci.uc.edu/departments/psychology/fac_staff.html?eid=richamo&thecomp=uceprof
 ---
 
-Peter Langland-Hassan Principal Investigator and Team Leader,
-Aimee Dietz (Associate Professor in the Department of Communication Sciences and Disorders at the University of Cincinnati) as Co-PI
-Michael J. Richardson (Associate Professor of Psychology and the University of Cincinnati) as Co-PI, and
-
 This empirical and theoretical project brings together a philosopher, psychologist, and speech-language pathologist to investigate the contribution of language to the first-person experience of thinking. The investigators will conduct three interrelated studies, all focused on the question of how _inner speech_ contributes to our conscious thought processes and cognitive phenomenology. One of the project’s key questions is whether there are forms of conscious thought that transcend anything that can be identified with the “offline” use of bodily sensory-motor capacities.
 
 Despite the ubiquity of inner speech in the mental lives of most humans, there is no consensus concerning its contribution to cognitive phenomenology. Suppose, for instance, that a person lost the ability to silently speak to herself. How would this affect the kinds of thoughts she was able to consciously entertain? Would she still be capable of the same range of conscious thoughts? Or would there be certain thoughts she could no longer have? To date, theorists have defended positions on these questions mainly by appealing to how things seem to them introspectively, or by invoking large-scale theoretical considerations derived from theories of cognitive architecture. Direct empirical support, however, has remained slight.

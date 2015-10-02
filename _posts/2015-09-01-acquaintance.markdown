@@ -6,17 +6,13 @@ date:       2015-09-01 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
 people:
-- name: 
-  pic: doro
+- name: Thomas Raleigh
+  pic: raleigh
   position: Principal Investigator
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: http://www.ntnu.edu/employees/thomas.raleigh
 ---
-
-Thomas Raleigh, Norwegian University of Science & Technology
 
 Bertrand Russell famously drew a distinction between ‘Knowledge by Description’ and ‘Knowledge by Acquaintance’. His core idea was that when you are directly conscious of something – i.e. when you have an experience of the thing itself – you can thereby gain a distinctive and especially secure kind of knowledge about it, a mental state that is fundamentally different from (merely) knowing some true claim about that thing. The influence of Russell’s seminal work has enshrined ‘Acquaintance’ as a familiar philosophical term-of- art. More generally though, the idea that when we undergo a conscious experience something is somehow directly ‘given’ to or ‘present’ in our minds, rather than being merely accurately described or represented, and that this special intimate conscious relation plays some crucially important role in our cognitive lives, has a long history in philosophy that predates Russell.
 

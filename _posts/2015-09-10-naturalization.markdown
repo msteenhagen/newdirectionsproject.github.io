@@ -10,82 +10,62 @@ people:
   pic: soldati
   position: Project Leader
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
-- name: Martine Nida-Ruemelin
+      url: http://perso.unifr.ch/gianfranco.soldati
+- name: Martine Nida-Rümelin
   pic: nidaruemelin
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: http://lettres.unifr.ch/?id=2057
 - name: Fabian Dorsch
   pic: dorsch
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: http://perso.unifr.ch/fabian.dorsch/
 - name: Patrik Engisch
   pic: engisch
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: https://unifr.academia.edu/PatrikEngisch
 - name: Alberto Voltolini
   pic: voltolini
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: https://unito.academia.edu/AlbertoVoltolini
 - name: Elisabetta Sacchi
   pic: sacchi
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: http://www.unisr.it/persona.asp?id=6088
 - name: Carola Barbero
   pic: barbero
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: http://filosofia.campusnet.unito.it/do/docenti.pl/Show?_id=cabarber
 - name: Giulia Martina
   pic: martina
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: http://unito.academia.edu/GiuliaMartina
 - name: Uriah Kriegel
   pic: kriegel
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: http://uriahkriegel.com
 - name: Davide Bordini
   pic: bordini
   position: Project Co-organiser
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: https://unimi.academia.edu/DavideBordini
 ---
 
 There are four ways to understand the relationship between intentionality and consciousness on the one hand and the naturalization project on the other. First: intentionality is naturalizable (i.e., it can be investigated by empirical sciences) yet it is a non-conscious property, as the so-called Naturalist- Externalist Research Program (NERP) maintains. Second: intentionality is both naturalizable and conscious. Third: intentionality is non-naturalizable, yet it is a conscious property. By talking of consciousness, both these latter two ways want to explore the idea that intentionality is phenomenal intentionality, i.e., it is a property that mental states possess in virtue of their having a phenomenal character, a certain ‘what it is like’. They hence articulate the so-called Phenomenal Intentionality Research Program (PIRP). Fourth: intentionality is neither naturalizable nor conscious, where the best candidates for being intentionality in this sense are either normative properties or basically modal properties.
