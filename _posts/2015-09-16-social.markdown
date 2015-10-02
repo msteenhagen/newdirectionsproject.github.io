@@ -6,17 +6,27 @@ date:       2015-09-16 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
 people:
-- name: 
-  pic: doro
-  position: Principal Investigator
+- name: Colin Blakemore
+  pic: blakemore
+  position: Investigator
+  social:
+    - title: linkedin
+      url: http://uk.linkedin.com/pub/colin-blakemore/9/545/50a
+- name: Christopher Frith
+  pic: frith
+  position: Investigator
   social:
     - title: twitter
-      url: 
+      url: http://twitter.com/cdfrith
     - title: home
-      url: 
+      url: http://sites.google.com/site/chrisdfrith
+- name: Patrick Haggard
+  pic: haggard
+  position: Investigator
+  social:
+    - title: home
+      url: http://www.icn.ucl.ac.uk/Staff-Lists/MemberDetails.php?Title=Prof&FirstName=Patrick&LastName=Haggard
 ---
-
-Investigators: Colin Blakemore, Christopher Frith and Patrick Haggard
 
 Neuroscience has made great strides in providing purely physical accounts of how our brains process signals from our sense organs, store information for short or long periods of time, and control our muscles as we carry out actions. These accounts are physical - in the sense that they consider the brain as operating on the basis of physical influences that cause our actions. They make little or no reference to the fact that human beings are aware of their sensory experiences and their past memories; and that we consciously think about the future and choose for ourselves what we do. Only in the most simple situations (such as pulling your hand away if it touches a hotplate, or correcting your posture if you stumble on an unseen step in your path) do you feel that you are simply reacting automatically to things that happen to you. Most of the time, you have the feeling that you are in control. At the heart of our personal, understanding of how we work is the notion that each of us is a **self** - the subject of experiences and the agent that chooses and initiates our voluntary actions. This subjective, intentional account of our own behaviour is reflected in the way that we speak about our perceptions, wishes, thoughts and choices. The personal pronoun 'I' captures the concept of an autonomous self. Equally, we imagine other people also to have sensations, thoughts, intentions and choices. Most scientists think that mental states must be entirely dependent on physical states. But autonomous, self-based mental model of our behaviour that we carry in our minds is incompatible with physical models of brain and behaviour. We shall be conducting a programme of experimental work on three main areas of human cognition and behaviour that are particularly resistant to physical description:
 

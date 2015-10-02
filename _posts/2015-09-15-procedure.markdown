@@ -6,22 +6,45 @@ date:       2015-09-15 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
 people:
-- name: 
-  pic: doro
-  position: Principal Investigator
+- name: Heather Logue
+  pic: logue
+  position: Project Leader
+  social:
+    - title: home
+      url: http://www.leeds.ac.uk/arts/profile/20042/199/heather_logue
+- name: Keith Allen
+  pic: allen
+  position: Project Co-organiser
+  social:
+    - title: home
+      url: http://www.york.ac.uk/philosophy/about/staff/keith-allen/
+- name: Clare Mac Cumhaill 
+  pic: maccumhaill
+  position: Project Co-organiser
+  social:
+    - title: home
+      url: http://www.dur.ac.uk/philosophy/staff/?id=11902
+- name: Paul Noordhof
+  pic: noordhof
+  position: Project Co-organiser
   social:
     - title: twitter
-      url: 
+      url: http://twitter.com/paulnoordhof
     - title: home
-      url: 
+      url: http://www.york.ac.uk/philosophy/about/staff/paul-noordhof/
+- name: Louise Richardson
+  pic: richardsonl
+  position: Project Co-organiser
+  social:
+    - title: home
+      url: http://www.york.ac.uk/philosophy/about/staff/louise-richardson/
+- name: Sam Wilkinson
+  pic: wilkinson
+  position: Project Co-organiser
+  social:
+    - title: home
+      url: http://www.dur.ac.uk/philosophy/staff/?id=11828
 ---
-
-Heather Logue (project leader), Lecturer, University of Leeds
-Keith Allen, Senior Lecturer, University of York
-Clare Mac Cumhaill, Lecturer, University of Durham
-Paul Noordhof, Anniversary Professor of Philosophy, University of York
-Louise Richardson, Lecturer, University of York
-Sam Wilkinson, Postdoctoral Research Fellow, University of Durham
 
 Perceptual experiences are mental states associated with the senses—sight, hearing, touch, taste, and smell. Philosophers are interested in them because they raise many questions that are difficult to answer. For example, you have a visual experience when the light bounces off the banana on your kitchen table into your eyes, which then hits your retina and gets processed by your brain. But could you still have an experience that feels exactly the same if we removed the banana and the light, and just stimulated your brain directly? Most philosophers assume that we can. But this assumption leads to a puzzle: where exactly does the distinctive “feel” of perceptual experiences come from? There’s rich and vivid character to seeing a yellow thing, hearing a hearty laugh, smelling freshly cut grass, and so on. But how does all that emerge from a bunch of neurons firing in your brain? It seems like all the neurons could be firing away, and nevertheless it’s all “dark within”.
 

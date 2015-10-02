@@ -6,14 +6,12 @@ date:       2015-09-13 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
 people:
-- name: 
-  pic: doro
+- name: Michael D. Kirchhoff
+  pic: kirchhoff
   position: Principal Investigator
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: http://lha.uow.edu.au/hsi/contacts/UOW164609.html
 ---
 
 This project investigates a new account of consciousness. Our conscious lives are what we are most familiar with. We all know what it is like to have a conscious experience of something. So one might expect that an account of consciousness would be easy to come by. But appearances can be misleading. In the sciences of mind and brain, many believe that consciousness is one of the biggest mysteries. How could this be so? The puzzle is: how could a few pounds of soft nervous tissue – brains consisting of cells, hormones, and electrical currents – give rise to the sensational world of conscious experience?

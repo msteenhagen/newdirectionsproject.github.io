@@ -6,14 +6,12 @@ date:       2015-09-12 12:00:00
 author:     "New Directions"
 header-img: "img/post-bg-01.jpg"
 people:
-- name: 
-  pic: doro
+- name: Barbara Gail Montero
+  pic: montero
   position: Principal Investigator
   social:
-    - title: twitter
-      url: 
     - title: home
-      url: 
+      url: https://barbaramontero.wordpress.com/
 ---
 
 What would philosophy of mind look like if physicalism were no longer the default position? In other words, how would philosophical theorizing about the mind change if it were no longer assumed that everything, including the mind, is physical? Over the past fifteen years, I have been reconceptualizing the mind-body problem, which is the problem of accounting for how mind relates to matter, so as to allow for an array of positions that oppose the standard conception of physicalism while, at the same time, capturing some of its core commitments ([Montero 1999](http://philpapers.org/rec/MONTBP), [2001](http://philpapers.org/rec/MONP), [2003a](http://philpapers.org/rec/MONVOC), [2003b](http://philpapers.org/rec/MONTED-2), 2004, 2005, [2006a](http://philpapers.org/rec/MONWDT), [2006b](http://philpapers.org/rec/MONPIA), [2007](http://philpapers.org/rec/MONPCB), [2009](http://philpapers.org/rec/MONWIT), [2010](http://philpapers.org/rec/MONARR), 2011, 2012, 2013, 2015a, 2015b, in press, [Montero and Papineau 2005](http://philpapers.org/rec/MONADO), Montero and Papineau in press). I am requesting support to write a book, provisionally entitled _The Post-Physical World: An Account of Mind without Matter_, that synthesizes my research to date on this topic and develops a new argument challenging the physicalist’s cherished principle of causal closure: that all physical effects have sufficient physical causes.

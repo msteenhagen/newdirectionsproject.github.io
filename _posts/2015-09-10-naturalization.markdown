@@ -8,31 +8,85 @@ header-img: "img/post-bg-01.jpg"
 people:
 - name: Gianfranco Soldati
   pic: soldati
-  position: Principal Investigator
+  position: Project Leader
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Martine Nida-Ruemelin
+  pic: nidaruemelin
+  position: Project Co-organiser
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Fabian Dorsch
+  pic: dorsch
+  position: Project Co-organiser
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Patrik Engisch
+  pic: engisch
+  position: Project Co-organiser
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Alberto Voltolini
+  pic: voltolini
+  position: Project Co-organiser
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Elisabetta Sacchi
+  pic: sacchi
+  position: Project Co-organiser
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Carola Barbero
+  pic: barbero
+  position: Project Co-organiser
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Giulia Martina
+  pic: martina
+  position: Project Co-organiser
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Uriah Kriegel
+  pic: kriegel
+  position: Project Co-organiser
+  social:
+    - title: twitter
+      url: 
+    - title: home
+      url: 
+- name: Davide Bordini
+  pic: bordini
+  position: Project Co-organiser
   social:
     - title: twitter
       url: 
     - title: home
       url: 
 ---
-
-
-Project leader: Prof. Gianfranco Soldati, University of Fribourg, (CH)
-III. Team members:
-A. University of Fribourg (CH)
-• Prof. Gianfranco Soldati (project leader);
-• Prof. Martine Nida-Ruemelin;
-• Prof. Fabian Dorsch;
-• Patrik Engisch, MA;
-B. University of Turin
-• Prof. Alberto Voltolini;
-• Prof. Elisabetta Sacchi (S. Raffaele, Milan);
-• Prof. Carola Barbero;
-• Dr. Giulia Martina;
-C. Institut Jean Nicod, Paris
-• Prof. Uriah Kriegel;
-• Dr. Davide Bordini.
-
 
 There are four ways to understand the relationship between intentionality and consciousness on the one hand and the naturalization project on the other. First: intentionality is naturalizable (i.e., it can be investigated by empirical sciences) yet it is a non-conscious property, as the so-called Naturalist- Externalist Research Program (NERP) maintains. Second: intentionality is both naturalizable and conscious. Third: intentionality is non-naturalizable, yet it is a conscious property. By talking of consciousness, both these latter two ways want to explore the idea that intentionality is phenomenal intentionality, i.e., it is a property that mental states possess in virtue of their having a phenomenal character, a certain ‘what it is like’. They hence articulate the so-called Phenomenal Intentionality Research Program (PIRP). Fourth: intentionality is neither naturalizable nor conscious, where the best candidates for being intentionality in this sense are either normative properties or basically modal properties.
 
