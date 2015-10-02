@@ -37,3 +37,7 @@ People with aphasia present new opportunities for approaching these questions ex
 The project’s second experiment will employ the same paradigm, yet where a non- aphasic population completes the task assessing conscious thought under two conditions. In the first _articulatory suppression_ condition, participants complete the task while doing a concurrent language task. In the second condition, participants complete the task while doing a concurrent motor task (rhythmic tapping) that, while comparably increasing cognitive load, does not require language use. If conscious thought is significantly impaired during the concurrent language task, as opposed to the concurrent motor task, this would provide added evidence for the hypothesis that language plays an important role in conscious thought.
 
 To supplement the findings of the above quantitative studies, the investigators will complete a third qualitative study by administering a detailed phenomenological survey to each participant group. The survey will ask a wide range of questions concerning participants’ cognitive phenomenology during the experimental tasks and in daily life. In this way, the investigators hope to arrive at mutually supporting qualitative and quantitative data, giving due weight to both first and third person perspectives on consciousness.
+
+<span class="caption text-muted">Image: 
+<a href="..." target="_blank">...</a>, 
+...</span>

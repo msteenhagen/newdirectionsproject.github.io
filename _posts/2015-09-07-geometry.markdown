@@ -4,7 +4,7 @@ title:      "Geometry in Mind: Space, Experience and Solipsism"
 subtitle:   
 date:       2015-09-07 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/post-bg-01.jpg"
+header-img: "img/bgs/geometry.jpg"
 people:
 - name: Clare Mac Cumhaill 
   pic: maccumhaill
@@ -25,5 +25,4 @@ In order to explain how certain things appear to us in this way—as located _at
 Given the kinds of experiences _we_ have, there are constraints on _where_ we could be—we couldn’t be stranded in radically convoluted regions – and, more particularly, there are constraints on _what kind of consciousnesses we could be_. In particular, since solipsism – roughly the thought that we could be lone experiencers in an otherwise empty world—is conceivable for us, it is in fact precluded, with consequences for any philosophical theory of the metaphysics of mind consistent with this possibility.
 
 <span class="caption text-muted">Image: 
-<a href="..." target="_blank">...</a>, 
-...</span>
+<a href="https://www.flickr.com/photos/on1stsite/5114378012/in/photolist-8MWwpf-rLUJEn-rCpY6-ouxVmx-9bsvxH-qVydy2-oFteZF-3feDXC-axsDyA-obco3j-rfNgzi-rwG6cz-oFM1YX-6tLnwU-qdmVF6-oHBqHF-oT891c-a7Me6-ow3LNj-6ohCwy-fueVrZ-o9U3yp-SYvph-fdbknU-8qiZtq-nVmoYR-dwsxEg-mY6To9-nP3NHB-nStqCD-4jWgLu-naNWoA-rrDph-p1hW1a-pXZ2jU-gdXpav-ad63rV-q7E9pR-5WxrpT-8NuyMH-3K959Z-6RsTYt-pXLymW-5WdqHg-5m1SGw-mv9A3p-oHdqu2-9DCFP-hqnHrr-e29nsh" target="_blank">Beach geometry</a>, Marja van Bochove</span>

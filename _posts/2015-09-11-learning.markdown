@@ -27,3 +27,7 @@ If people really do see the world differently due to learning (and there is moun
 We aim to bring together philosophers, psychologists, and neuroscientists for two international workshops to discuss perceptual learning and the challenges that it raises. This is especially timely, because the study of perceptual learning has experienced a boom in psychology in the past fifty years. Philosophers, for their part, have been discussing perceptual learning for centuries, from the 14th-century Indian philosopher Vedānta Deśika to the 18th-century Scottish philosopher Thomas Reid. The philosophical exploration of perceptual learning often makes use of intuitions and introspection about the subjective changes in one’s perception. Psychology, on the other hand, has studied the phenomenon in the lab, and is now in a position to weigh in on past philosophical claims.
 
 Our goal is to foster an ongoing and deeply interdisciplinary conversation by pairing scientists and philosophers as presenters and commentators at our workshops, and by involving researchers at all levels, from graduate students to more senior colleagues. This workshop format provides an opportunity for experts across different but complimentary fields to speak directly to each other’s work, and to find ways of integrating learning across the disciplines.
+
+<span class="caption text-muted">Image: 
+<a href="..." target="_blank">...</a>, 
+...</span>

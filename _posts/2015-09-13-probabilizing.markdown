@@ -25,3 +25,7 @@ The results of this investigation are as follows. First, it suggests that a phys
 The implications of the project are the following. First, many believe that consciousness is the biggest mystery. But if the solution explored in this project is correct, it follows that consciousness is not a mystery. It is like any other probabilistic aspect of physical systems. This is a significant implication. Second, by far the most influential position in the sciences of mind and brain is physicalism. This project implies that we have good reasons to be skeptical about physicalism as our primary way of understanding consciousness and its place in the natural world.
 
 As a result, this project aligns with the New Directions in the Study of the Mind project in seeking alternatives to reductive physicalism in an exploration of consciousness.
+
+<span class="caption text-muted">Image: 
+<a href="..." target="_blank">...</a>, 
+...</span>

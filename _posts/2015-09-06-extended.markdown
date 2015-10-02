@@ -4,7 +4,7 @@ title:      "Extended Consciousness and the Value of Neuroscience"
 subtitle:   
 date:       2015-09-06 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/post-bg-01.jpg"
+header-img: "img/bgs/extended.jpg"
 people:
 - name: Valerie G. Hardcastle
   pic: hardcastle
@@ -23,5 +23,4 @@ Neuroscience data tell us that consciousness is not identical to all cognition; 
 In addition, embodied cognition approaches often assume a non-material understanding of the mind and mentality. The mind isn’t comprised of neurons or brains, but rather is found in the interaction of the brain with the world. It is both subjective and objective at the same time. A second part of this project is to explain how something like neuroscience, which presupposes that there are only physical things in the universe, fits with these non-physicalistic models of the mind. Obviously, one view is not going to reduce into the other, but there are other ways of understanding how our scientific models can inform one another. This project will also try to outline what these ways are and how they are important for our basic understanding of the universe and of scientific progress.
 
 <span class="caption text-muted">Image: 
-<a href="..." target="_blank">...</a>, 
-...</span>
+<a href="https://www.flickr.com/photos/nicmcphee/461050192/in/photolist-GK1af-dLJjgJ-2nhNUA-be1uAk-bAKbBx-9wtXeS-5U9jRQ-h1VStL-8SDpF2-8Yg2tn-7tzY9F-62ifSo-6TXbrV-9adnQq-315NFL-bVUqVj-qB6J36-ouqiFn-7hXWLv-64p5Wi-7yLcje-5NEgkS-omsykU-6g3yr2-a87KDk-2Z7CGa-9SkJ4c-r1Y34H-hhAnbS-7rDRpG-52w8Ea-ddjNYw-bgRV1k-89iamS-71yVxW-dQSFRG-4tD8sf-cCraBY-3k2eHT-7xh5Rr-dYAkHL-92PXck-arqvdi-dBXXXi-9e7dBX-9hVhA9-8SH8qi-dtbyR1-6QZHaD-aAbD6h" target="_blank">Patch cables</a>, Nic McPhee</span>
