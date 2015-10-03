@@ -10,7 +10,7 @@ thumbnail: "distance-thumbnail.png"
 people:
 - name: Maarten Steenhagen
   pic: steenhagen
-  position: Principal Organisor
+  position: Principal Organizer
   social:
     - title: twitter
       url: https://twitter.com/msteenhagen
@@ -18,13 +18,13 @@ people:
       url: http://msteenhagen.github.io
 - name: Bence Nanay
   pic: nanay
-  position: Co-organiser
+  position: Co-organizer
   social:
     - title: home
       url: http://uahost.uantwerpen.be/bence.nanay/
 - name: Winnie Sung
   pic: sung
-  position: Co-organiser
+  position: Co-organizer
   social:
     - title: twitter
       url: https://twitter.com/winniehcs
@@ -32,10 +32,10 @@ people:
       url: http://whcsung.com/
 - name: Mark Eli Kalderon
   pic: kalderon
-  position: Co-organiser
+  position: Co-organizer
   social:
-    - title: twitter
-      url: https://twitter.com/PhilGeek
+<!--     - title: twitter
+      url: https://twitter.com/PhilGeek -->
     - title: home
       url: https://www.ucl.ac.uk/philosophy/people/mark-kalderon
 ---
