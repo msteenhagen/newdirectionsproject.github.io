@@ -34,8 +34,6 @@ people:
   pic: kalderon
   position: Co-organizer
   social:
-<!--     - title: twitter
-      url: https://twitter.com/PhilGeek -->
     - title: home
       url: https://www.ucl.ac.uk/philosophy/people/mark-kalderon
 ---
