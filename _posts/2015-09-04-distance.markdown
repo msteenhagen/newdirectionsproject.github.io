@@ -2,7 +2,8 @@
 layout:     post
 title:      "Perceiving at a Distance"
 subtitle:   
-date:       2015-09-04 12:00:00
+startdate:     2015-10-02 12:00:00
+enddate:       2016-07-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/distance.jpg"
 thumbnail: "distance-thumbnail.png"

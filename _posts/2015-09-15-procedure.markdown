@@ -2,7 +2,8 @@
 layout:     post
 title:      "Purpose and Procedure in Philosophy of Perception"
 subtitle:   
-date:       2015-09-15 12:00:00
+startdate:     2015-11-02 12:00:00
+enddate:       2017-12-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/procedure.jpg"
 thumbnail: "procedure-thumbnail.png"

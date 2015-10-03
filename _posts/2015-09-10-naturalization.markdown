@@ -2,7 +2,8 @@
 layout:     post
 title:      "Intentionality, Consciousness, and Naturalization"
 subtitle:   
-date:       2015-09-10 12:00:00
+startdate:     2016-01-02 12:00:00
+enddate:       2017-12-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/naturalization.jpg"
 thumbnail: "naturalization-thumbnail.png"

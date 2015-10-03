@@ -1,8 +1,9 @@
 ---
 layout:     post
-title:      "Subjectivity, Agency and Social Cognition-Challenges for Reductionist Accounts of the Mind"
-subtitle:   
-date:       2015-09-16 12:00:00
+title:      "Subjectivity, Agency and Social Cognition"
+subtitle:   "Challenges for Reductionist Accounts of the Mind"  
+startdate:     2015-10-02 12:00:00
+enddate:       2017-06-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/social.jpg"
 thumbnail: "social-thumbnail.png"
@@ -38,4 +39,5 @@ Neuroscience has made great strides in providing purely physical accounts of how
 We shall use a variety of techniques, including functional Magnetic Resonance Imaging, brain wave measurement, transcranial magnetic stimulation of the brain and the monitoring of eye movements and muscle responses, to examine brain activity associated with subjective experiences, For each of these areas we shall critically test possible physical explanations for the mental phenomena, on the understanding that exhaustive elimination of physical explanations in terms of brain function would strengthen the case for alternative, non-physical accounts of human behaviour.
 
 <span class="caption text-muted">Image: 
-<a href="https://www.flickr.com/photos/ninara/11916418294/" target="_blank">IMG_0617</a>, ninara</span>
+<a href="https://www.flickr.com/photos/mauroguanandi/3199222802/" target="_blank">Bisnagueira, mijadeira, African-tulip (Spathodea campalunata) Fire tree parque ceret Sao Paulo Brazil. African native</a>, 
+mauroguanandi</span>

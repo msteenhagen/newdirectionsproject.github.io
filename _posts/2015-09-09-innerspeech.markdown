@@ -1,8 +1,9 @@
 ---
 layout:     post
-title:      "Inner Speech and Cognitive Phenomenology: An Interdisciplinary Investigation of What it is Like to Think Without Words"
-subtitle:   
-date:       2015-09-09 12:00:00
+title:      "Inner Speech and Cognitive Phenomenology"
+subtitle:   "An Interdisciplinary Investigation of What it is Like to Think Without Words"
+startdate:     2015-12-02 12:00:00
+enddate:       2017-12-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/innerspeech.jpg"
 thumbnail: "innerspeech-thumbnail.png"

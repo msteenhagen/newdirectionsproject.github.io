@@ -2,7 +2,8 @@
 layout:     post
 title:      "The Interdisciplinary Study of Perceptual Learning"
 subtitle:   
-date:       2015-09-11 12:00:00
+startdate:     2016-06-02 12:00:00
+enddate:       2017-05-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/learning.jpg"
 thumbnail: "learning-thumbnail.png"

@@ -1,8 +1,9 @@
 ---
 layout:     post
-title:      "Probabilizing Consciousness: Implications and New Directions"
-subtitle:   
-date:       2015-09-13 12:00:00
+title:      "Probabilizing Consciousness"
+subtitle:   "Implications and New Directions"
+startdate:     2016-01-02 12:00:00
+enddate:       2017-01-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/probabilizing.jpg"
 thumbnail: "probabilizing-thumbnail.png"

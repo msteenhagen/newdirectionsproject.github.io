@@ -2,7 +2,8 @@
 layout:   post
 title:    "The Epistemic Role of Consciousness"
 subtitle:  
-date:    2015-09-05 12:00:00
+startdate:     2016-08-02 12:00:00
+enddate:       2017-08-02 12:00:00
 author:   "New Directions"
 header-img: "img/bgs/epistemic.jpg"
 thumbnail: "epistemic-thumbnail.png"
