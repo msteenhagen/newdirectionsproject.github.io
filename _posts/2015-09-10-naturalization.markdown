@@ -5,6 +5,7 @@ subtitle:
 date:       2015-09-10 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/naturalization.jpg"
+thumbnail: "naturalization-thumbnail.png"
 people:
 - name: Gianfranco Soldati
   pic: soldati

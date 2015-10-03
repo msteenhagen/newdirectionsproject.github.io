@@ -4,7 +4,8 @@ title:      "Purpose and Procedure in Philosophy of Perception"
 subtitle:   
 date:       2015-09-15 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/post-bg-01.jpg"
+header-img: "img/bgs/procedure.jpg"
+thumbnail: "procedure-thumbnail.png"
 people:
 - name: Heather Logue
   pic: logue
@@ -53,5 +54,4 @@ Arguably, part of the reason that philosophical questions about perceptual exper
 Our project, “Purpose and Procedure in Philosophy of Perception”, is designed to advance debates in philosophy of perception by getting philosophers to explicitly explain and defend what they are trying to do in giving their theories, and how they are going to go about doing it. Over the course of a series of workshops and an international conference, we intend to explore a wide variety of philosophical presuppositions about perceptual experience in order to achieve greater clarity about the rules of the game—which in turn promises to expedite progress in understanding perceptual experience.
 
 <span class="caption text-muted">Image: 
-<a href="..." target="_blank">...</a>, 
-...</span>
+<a href="https://www.flickr.com/photos/pmiaki/6657150957/" target="_blank">X-wing plans</a>, Mike</span>

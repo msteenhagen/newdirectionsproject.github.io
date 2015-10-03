@@ -5,6 +5,7 @@ subtitle:
 date:       2015-09-09 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/innerspeech.jpg"
+thumbnail: "innerspeech-thumbnail.png"
 people:
 - name: Peter Langland-Hassan
   pic: langlandhassan

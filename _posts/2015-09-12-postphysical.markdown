@@ -4,7 +4,8 @@ title:      "Post-physicalism and the Mind-Body Problem"
 subtitle:   
 date:       2015-09-12 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/post-bg-01.jpg"
+header-img: "img/bgs/postphysical.jpg"
+thumbnail: "postphysical-thumbnail.png"
 people:
 - name: Barbara Gail Montero
   pic: montero
@@ -20,6 +21,5 @@ In the book, I aim to delineate an account of mentality that, though arguably ph
 
 If successful, the book would be philosophically important as it would sever the dichotomous way of thinking about the physical word that leads to either physicalistic eliminativism (whereby mentality, in being nothing over and above neural properties, is merely nominally mental) or anti-scientific dualism (whereby mentality is the _sui generis_ feature of our world that eludes science). And I aspire for it to be scientifically relevant as well: for it is my impression that although philosophers of mind sometimes argue for the reducibility of certain features of the world—biological facts to facts about interactions of macromolecules, for example—based on the idea that scientific data supports it, scientists sometimes claim that although no reductive account of the relevant facts is forthcoming there must be one because, after all, philosophical argument supports it. My inkling, which I hope to substantiate in the book, is that a science of the mind will progress faster once this assumption is cast off.
 
-<span class="caption text-muted">Image: 
-<a href="..." target="_blank">...</a>, 
-...</span>
+<span class="caption text-muted">Image: <a href="https://www.flickr.com/photos/volacolvento/10358370604/" target="_blank">
+Varanasi</a>, Emiliana Borruto</span>

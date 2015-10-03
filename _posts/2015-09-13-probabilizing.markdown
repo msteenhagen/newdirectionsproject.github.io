@@ -4,7 +4,8 @@ title:      "Probabilitizing Consciousness: Implications and New Directions"
 subtitle:   
 date:       2015-09-13 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/post-bg-01.jpg"
+header-img: "img/bgs/probabilizing.jpg"
+thumbnail: "probabilizing-thumbnail.png"
 people:
 - name: Michael D. Kirchhoff
   pic: kirchhoff
@@ -27,5 +28,4 @@ The implications of the project are the following. First, many believe that cons
 As a result, this project aligns with the New Directions in the Study of the Mind project in seeking alternatives to reductive physicalism in an exploration of consciousness.
 
 <span class="caption text-muted">Image: 
-<a href="..." target="_blank">...</a>, 
-...</span>
+<a href="https://www.flickr.com/photos/tomitapio/4119508207/" target="_blank">In the dice box</a>, Tomi Tapio K</span>

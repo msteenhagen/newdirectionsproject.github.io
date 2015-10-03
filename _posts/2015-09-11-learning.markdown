@@ -4,7 +4,8 @@ title:      "The Interdisciplinary Study of Perceptual Learning"
 subtitle:   
 date:       2015-09-11 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/post-bg-01.jpg"
+header-img: "img/bgs/learning.jpg"
+thumbnail: "learning-thumbnail.png"
 people:
 - name: Kevin Connolly
   pic: connolly
@@ -29,5 +30,4 @@ We aim to bring together philosophers, psychologists, and neuroscientists for tw
 Our goal is to foster an ongoing and deeply interdisciplinary conversation by pairing scientists and philosophers as presenters and commentators at our workshops, and by involving researchers at all levels, from graduate students to more senior colleagues. This workshop format provides an opportunity for experts across different but complimentary fields to speak directly to each other’s work, and to find ways of integrating learning across the disciplines.
 
 <span class="caption text-muted">Image: 
-<a href="..." target="_blank">...</a>, 
-...</span>
+<a href="https://www.flickr.com/photos/denial_land/5463958722/" target="_blank">SereniTEA</a>, caruba</span>
