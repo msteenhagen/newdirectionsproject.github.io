@@ -5,8 +5,8 @@ subtitle:   "Implications and New Directions"
 startdate:     2016-01-02 12:00:00
 enddate:       2017-01-02 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/probabilizing.jpg"
-thumbnail: "probabilizing-thumbnail.png"
+header-img: "img/bgs/probabilitizing.jpg"
+thumbnail: "probabilitizing-thumbnail.png"
 people:
 - name: Michael D. Kirchhoff
   pic: kirchhoff
