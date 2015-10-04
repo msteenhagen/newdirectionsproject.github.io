@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Probabilizing Consciousness"
+title:      "Probabilitizing Consciousness"
 subtitle:   "Implications and New Directions"
 startdate:     2016-01-02 12:00:00
 enddate:       2017-01-02 12:00:00
