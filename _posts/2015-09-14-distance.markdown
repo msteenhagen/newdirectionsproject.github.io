@@ -24,12 +24,6 @@ people:
       url: https://twitter.com/winniehcs
     - title: home
       url: http://whcsung.com/
-- name: Bence Nanay
-  pic: nanay
-  position: Co-organizer
-  social:
-    - title: home
-      url: http://uahost.uantwerpen.be/bence.nanay/
 - name: Mark Eli Kalderon
   pic: kalderon
   position: Co-organizer
