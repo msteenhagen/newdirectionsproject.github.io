@@ -2,7 +2,7 @@
 layout:     post
 title:      "Sense-Data"
 subtitle:   "Phenomenology and Metaphysics"  
-startdate:     2015-10-02 12:00:00
+startdate:     2016-07-02 12:00:00
 enddate:       2017-06-02 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/sensedata.jpg"
