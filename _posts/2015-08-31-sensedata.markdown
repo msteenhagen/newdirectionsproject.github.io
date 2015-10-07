@@ -24,7 +24,7 @@ people:
       url: http://www.gla.ac.uk/schools/humanities/staff/stephanleuenberger/
 - name: Umut Baysan
   pic: baysan
-  position: Philosophy Postdoc & Project Administrator
+  position: Postdoc & Project Administrator
   social:
     - title: home
       url: http://www.umutbaysan.org/
