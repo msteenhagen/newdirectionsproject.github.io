@@ -5,20 +5,27 @@
 	</div>
 	<section class="event-contrast">			
 		{% assign curDate = site.time | date: '%s' %}
-		{% for event in site.categories.events reversed limit:3 %}
+		{% for event in site.categories.events reversed %}
 			{% assign postStartDate = event.date | date: '%s' %}
-				{% if postStartDate >= curDate %}
-					<div class="post-preview">
-				 		<a href="{{ event.url | prepend: site.baseurl }}">
-					        <h2 class="post-title">{{ event.title }}</h2>
-					        {% if event.speaker %}
-					        	<h3 class="post-subtitle">{{ event.speaker }}</h3>
-					        {% endif %}
-				    	</a>
-				    	<p class="post-meta">{% if event.location %}At {{ event.location }}, {% else %}{% endif %}{{ event.date | date: "%A, %B %-d, %Y" }}</p>
-					</div>
+				{% if postStartDate <= curDate %}
+					{% assign LastNeww = forloop.index %}
+					{% else %}	
+						{% assign AlmostDonee = forloop.index | minus:LastNeww %}
+						{% if AlmostDonee <= 3 %}	
+							<div class="post-preview">
+						 		<a href="{{ event.url | prepend: site.baseurl }}">
+							        <h2 class="post-title">{{ event.title }}</h2>
+							        {% if event.speaker %}
+							        	<h3 class="post-subtitle">{{ event.speaker }}</h3>
+							        {% endif %}
+						    	</a>
+						    	<p class="post-meta">{% if event.location %}At {{ event.location }}, {% else %}{% endif %}{{ event.date | date: "%A, %B %-d, %Y" }}</p>
+							</div>
+							<hr>
+					{% endif %}
+
 				{% endif %}
-			<hr>
+			
 		{% endfor %}
 		<ul class="pager">
 		<li class="next">
