@@ -1,6 +1,6 @@
 ---
 layout:   event
-title:    "Physicalism, etc."
+title:    "Introduction and Overview"
 subtitle:  
 date:     2015-10-14 12:00:00
 author:   "New Directions"

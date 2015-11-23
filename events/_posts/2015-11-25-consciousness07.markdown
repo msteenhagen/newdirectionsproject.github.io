@@ -1,8 +1,8 @@
 ---
 layout:   event
-title:    "How to understand consciousness"
+title:    "The mind on stilts"
 subtitle:  
-date:     2015-11-04 12:00:00
+date:     2015-11-25 12:00:00
 author:   "New Directions"
 header-img: "img/bgs/epistemic.jpg"
 thumbnail: "epistemic-thumbnail.png"

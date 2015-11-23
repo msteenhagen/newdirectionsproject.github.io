@@ -1,8 +1,8 @@
 ---
 layout:   event
-title:    "Physicalism, etc."
+title:    "Reductionism in two flavours"
 subtitle:  
-date:     2015-10-14 12:00:00
+date:     2015-10-28 12:00:00
 author:   "New Directions"
 header-img: "img/bgs/epistemic.jpg"
 thumbnail: "epistemic-thumbnail.png"
